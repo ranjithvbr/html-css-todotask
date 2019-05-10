@@ -1,0 +1,16 @@
+/* Write your media queries and flexbox CSS below */
+@media all and (max-width: 400px) {
+    .site-header__nav {
+        justify-content:flex-end;
+    }
+  }
+  @media screen and (max-width: 700px) {
+    .site-header__logo {
+        justify-content:flex-end;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .site-header__checkout {
+        justify-content:space-around;
+    }
+  }

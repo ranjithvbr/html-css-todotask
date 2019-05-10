@@ -1,0 +1,16 @@
+.countries {
+  display: flex;
+}
+
+/* Add your own CSS code below */
+.country--brazil{
+  order: 5;
+}
+.country--uganda{
+  order: 5;
+}
+
+.countries--third{
+flex-direction: row-reverse;
+justify-content:flex-end
+}

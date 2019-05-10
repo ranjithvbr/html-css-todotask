@@ -1,0 +1,26 @@
+.countries {
+  display: flex;
+}
+
+/* Add your own CSS code below */
+.countries--first{
+  
+ align-items: stretch;
+}
+.country--ethiopia{
+  align-self:flex-end ;
+}
+.countries--second{
+  align-items: center;
+ }
+
+.countries--third{
+  align-items: center;
+ 
+}
+
+.countries--fourth{
+  
+ align-items: center;
+
+}
